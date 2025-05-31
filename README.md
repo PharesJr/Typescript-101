@@ -24,4 +24,7 @@ It can be handy to have TypeScript available across all projects, often to test 
 
 `npx tsc --init`
 
-Then you can now run the code using code runner.
+
+* To access the notes, they are under **notes** sub-folder.
+
+To test the code: use **index.ts** file and then run your code using code-runner.
