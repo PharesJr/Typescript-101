@@ -9,3 +9,5 @@ const multiply = (x: number, y: number) => {
 const result = multiply(15, 4);
 
 console.log(result);
+
+
