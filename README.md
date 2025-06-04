@@ -6,11 +6,6 @@ TypeScript is a programming language that builds on JavaScript by adding types. 
 
 ### Installation
 
-##### TypeScript in Your Project
-Having TypeScript set up on a per-project basis lets you have many projects with many different versions of TypeScript, this keeps each project working consistently.
-
-`npm install typescript --save-dev`
-
 ##### Globally Installing TypeScript
 It can be handy to have TypeScript available across all projects, often to test one-off ideas. Long-term, codebases should prefer a project-wide installation over a global install so that they can benefit from reproducible builds across different machines.
 
@@ -28,3 +23,6 @@ It can be handy to have TypeScript available across all projects, often to test 
 * To access the notes, they are under **notes** sub-folder.
 
 To test the code: use **index.ts** file and then run your code using code-runner.
+
+### code-runner 
+Search the keyboard shortcuts to find how to run code-runner on your machine.
